@@ -1,3 +1,6 @@
+
+![](https://www.freecodecamp.org/news/content/images/size/w2000/2020/05/Thumbnail-v7.png)
+
 # TIL (Today I Learned) is a collection of things I am learning.
 
 
