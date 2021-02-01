@@ -16,9 +16,11 @@ as you see fit.
 The topic are mainly tech related but could be 
 anything random.
 
-I wish to have short issues lived issues like blog 
-posts and brief overview of a tech stack. For indepth
-study I use another account [LearnWithAnit](https://github.com/LearnWithAnit) for
+The nature of issues here are supposed to short lived,
+few hours or a day kind of issue but I have come to realize
+that does not happen. Anyways, I wish to have short lived
+issues like blog posts and brief overview of a tech stack.
+For indepth study I use another account [LearnWithAnit](https://github.com/LearnWithAnit) for
 learning books and online courses. This is also open sourced if you
 would like participate.
 
