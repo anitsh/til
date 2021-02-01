@@ -1,30 +1,24 @@
 
 # Today I Learn
 
-I am using [Issues](https://github.com/codeanit/til/issues)
-as a learning management tool.
+Learning should be as much open and fun. To make 
+it fun it should be collaborative, participation
+is as much important as the quality of the content.
+Hence this is my way of open learning. Therefore, 
+everyone is welcome participate. Comment kindly,
+and contribute as you see fit.
 
-Previously, I used to collect the information at [Trello](https://trello.com/b/GGhug4Bh/journey-of-a-software-engineer)
-and other places like Google Documents, Dropbox and
-local files. All of them have their use-cases but 
-I find `issues` more suitable for my purpose.
 
-This repository contains things I learn on a daily basis.
-The contents are mostly tech-stuffs but there might be 
-anything as my interest varies and it also depends on the
-content that I find which could just anything. Well I'm
-open to learning and understanding things in life as they 
-come. So this is my open-sourced open-minded way of knowledge
-sharing. Therefore, everyone is welcome. Please do participate.
-Comment as you see fit.
+### About The Repository
+[Issues](https://github.com/codeanit/til/issues) is the main learning management system. 
+The topic are mainly tech related but could be 
+anything random.
 
-The issues here will be as much possible related to
-short topics. For more detailed learning like books,
-massive online open source courses or any other topics
-that takes more time I use another account [LearnWithAnit](https://github.com/LearnWithAnit).
-
-The repository many not contain files but I look forward to
-convert the issues into contains according to their topics. 
+I wish to have short issues lived issues like blog 
+posts and brief overview of a tech stack. For indepth
+study I use another account [LearnWithAnit](https://github.com/LearnWithAnit) for
+learning books and online courses. This is also open sourced if you
+would like participate.
 
 If you have anything to ask, please create an [issue](https://github.com/codeanit/ama/issues).
 
