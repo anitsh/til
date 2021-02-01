@@ -1,12 +1,14 @@
 
 # Today I Learn
 
-Learning should be as much open and fun. To make 
-it fun it should be collaborative, participation
-is as much important as the quality of the content.
-Hence this is my way of open learning. Therefore, 
-everyone is welcome participate. Comment kindly,
-and contribute as you see fit.
+Learning should be open and fun and only then it
+can add value. To make it fun, the learning envirionment
+must be unbiased, collaborative and participative. 
+Inorder to create value from learning, such environment 
+is as important as the quality of the content. Therefore,
+this is my way of learning where everyone is welcome 
+to participate. Please do comment kindly, and contribute
+as you see fit.
 
 
 ### About The Repository
