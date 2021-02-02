@@ -1,4 +1,4 @@
-![never_stop_learning](https://user-images.githubusercontent.com/414141/106637786-3cdf1d00-65ab-11eb-8fbf-d965798e4bdc.jpg)
+![never_stop_learning](https://user-images.githubusercontent.com/414141/106642281-3bfcba00-65b0-11eb-94e6-17b86d03d756.png)
 
 # Today I Learn
 
