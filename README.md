@@ -30,3 +30,8 @@ sourced if you would like participate.
 If you have anything to ask, please create an [issue](https://github.com/codeanit/ama/issues).
 
 Thank you.
+
+--- 
+
+“The more I read, the more I acquire, the more certain I am that I know nothing.”
+― Voltaire
