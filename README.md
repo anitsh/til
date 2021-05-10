@@ -23,9 +23,11 @@ realize that does not happen. Anyways, I wish to have
 short lived issues like blog posts and brief overview 
 of a tech stack here.
 
-For indepth study I use another account [LearnWithAnit](https://github.com/LearnWithAnit)
-for learning books and online courses. This is also open
+For indepth study materials, please visit [ReadersClub](https://github.com/ReadersClub/readersclub.github.io/issues)
+which includes books and many online courses 
+that get my hands on. This is also open
 sourced if you would like participate.
+
 
 If you have anything to ask, please create an [issue](https://github.com/codeanit/ama/issues).
 
